@@ -4,11 +4,10 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
 
-- 🌱 I’m currently learning **Data analytics**
+ 🌱 I’m currently learning **Data analytics**
 
-- 📫 How to reach me **rajkelawala28@gmail.com**
-
-- ⚡ Fun fact **I am funny**
+ 📫 How to reach me **rajkelawala28@gmail.com**
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
