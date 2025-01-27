@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
 
- 🌱 I’m currently learning **Data Engineering**
+ 🌱 I’m currently learning **Django and Webbscrapping**
 
  📫 How to reach me **rajkelawala28@gmail.com**
  
