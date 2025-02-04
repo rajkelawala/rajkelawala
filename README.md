@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Raj Kelawala</h1>
-<h3 align="center">"Passionate about data Engineering, enhancing skills, driven by curiosity to create efficient solutions."</h3>
+<h3 align="center">"Passionate about Djnago, enhancing skills, driven by curiosity to create efficient solutions."</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
 
