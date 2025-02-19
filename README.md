@@ -16,7 +16,7 @@
 
 ###
 
-<h4 align="left"><h2>✨ About Me:</h2>👋 Hi there! I'm Raj kelawala, a Backend Developer intern at Jetbro Private Limited, specializing in Python and Django. Passionate about building scalable and efficient systems, I am continuously learning and improving my skills in backend development.<br>💻 Currently, I'm working on various projects that involve designing APIs, optimizing database queries, and ensuring robust backend functionality for seamless user experiences.</h4>
+<h4 align="left"><h2>✨ About Me:</h2>👋 Hi there! I'm Raj kelawala, a Backend Developer intern at Jetbro Private Limited, specializing in Python and Django. Passionate about building scalable and efficient systems.I am continuously learning and improving my skills in backend development.<br>💻 Currently, I'm working on various projects that involve designing APIs, optimizing database queries, and ensuring robust backend functionality for seamless user experiences.</h4>
 
 ###
 
@@ -34,7 +34,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="44" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="44" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="90" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" alt="javascript logo"  />
   <img width="12" />
