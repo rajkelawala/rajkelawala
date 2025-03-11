@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">"Passionate about Djnago, enhancing skills, driven by curiosity to create efficient solutions."</h3>
+<h3 align="center">"Passionate about Djnago, enhancing skills, driven by curiosity to create efficient solutions"</h3>
 
 ###
 
