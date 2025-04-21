@@ -16,7 +16,7 @@
 
 ###
 
-<h4 align="left"><h2>✨ About Me:</h2>👋 Hi there! I'm Raj kelawala, a Backend Developer intern at Jetbro Private Limited, specializing in Python and Django. Passionate about building scalable and efficient systems.I am continuously learning and improving my skills in backend development.<br>💻 Currently, I'm working on various projects that involve designing APIs, optimizing database queries, and ensuring robust backend functionality for seamless user experiences.</h4>
+<h4 align="left"><h2>✨ About Me:</h2>👋 Hi there! I'm Raj kelawala, Adaptable and committed Python Django Backend Developer with experience in API development, web scraping, and database management. Skilled in Django, REST APIs, PostgreSQL, and creating scalable and efficient backend solutions. Strong problem-solving skills with attention to detail. Enthusiastic about leveraging modern programming techniques to optimize data processing and system performance in fast-paced technical environments while continuously learning and growing.</h4>
 
 ###
 
